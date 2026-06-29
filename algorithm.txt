@@ -1,0 +1,11 @@
+COE102-week2-fulgar
+
+ACTIVITY #1
+Step 1: Start
+Step 2: Input the given number for num1
+Step 3: Input the given number for num 2
+Step 4: Sum up the num1 and num2
+Step 5: Display the sum
+Step 6: End
+
+
