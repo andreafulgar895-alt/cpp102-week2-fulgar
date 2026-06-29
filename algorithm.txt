@@ -8,4 +8,20 @@ Step 4: Sum up the num1 and num2
 Step 5: Display the sum
 Step 6: End
 
+ACTIVITY #2
+Step 1: Start
+Step 2: Input score 1
+Step 3: Input score 2
+Step 4: Input score 3
+Step 5: Sum of score 1, score 2, & score 3 then divide by 3
+Step 6: Display the average
+Step 7: End
 
+
+ACTIVITY #3
+Step 1: Start
+Step 2: Ask for a number, then Input
+Step 3: Check if number MOD 2 equals 0
+Step 4: If yes, display "Even"
+Step 5: If no, display "Odd"
+Step 6: End
